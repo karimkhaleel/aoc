@@ -2,3 +2,5 @@
 *.pyc
 .envrc
 pics
+input*txt*
+test*txt*
